@@ -9,7 +9,7 @@ git checkout -b main
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:CarlosSalda/vit-react-test.git master:gh-pages
+git push -f git@github.com:CarlosSalda/vit-react-test.git main:gh-pages
 
 
 cd -
